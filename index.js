@@ -2,7 +2,7 @@
  * @Author: lujing
  * @Date: 2020-12-17 14:54:44
  * @LastEditors: lujing
- * @LastEditTime: 2020-12-17 16:41:25
+ * @LastEditTime: 2020-12-17 16:49:15
  * @Descripttion: 
  */
 let aa = 0;
@@ -14,4 +14,9 @@ window
 // dev分支开发的计算器功能
 function compute(a,b){
   return a+b;
+}
+
+// dev分支开发一个打印功能
+function print(a){
+   console.log(a);
 }
